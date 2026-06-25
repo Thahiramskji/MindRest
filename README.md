@@ -1,17 +1,115 @@
-# mindrest
+# 🌿 MindRest
 
-A new Flutter project.
+MindRest adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna mengelola stres dan menjaga kesehatan mental melalui berbagai aktivitas sederhana seperti latihan pernapasan, suara relaksasi, pencatatan suasana hati, dan jurnal syukur.
 
-## Getting Started
+## 🎯 Sustainable Development Goals (SDGs)
 
-This project is a starting point for a Flutter application.
+**SDG 3 – Good Health and Well-being**
 
-A few resources to get you started if this is your first Flutter project:
+MindRest mendukung peningkatan kesejahteraan mental dengan menyediakan berbagai fitur yang membantu pengguna mengelola emosi, mengurangi stres, dan membangun kebiasaan self-care sehari-hari.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Fitur Utama
+
+### 😊 Mood Tracker
+
+* Mencatat suasana hati harian pengguna
+* Menambahkan catatan singkat terkait kondisi emosi
+* Menampilkan riwayat mood yang telah disimpan
+
+### 🫁 Breathing Exercise
+
+* Panduan latihan pernapasan
+* Animasi visual untuk membantu ritme pernapasan
+* Membantu pengguna merasa lebih tenang dan rileks
+
+### 🎵 Relaxation Sounds
+
+* Suara hujan
+* Suara ombak
+* Suara hutan
+* Suara angin
+* Kontrol play dan pause audio
+
+### 📖 Gratitude Journal
+
+* Menulis hal-hal yang disyukuri setiap hari
+* Menyimpan riwayat jurnal syukur
+
+### ✨ Daily Affirmation
+
+* Menampilkan pesan positif harian
+* Membantu meningkatkan motivasi dan suasana hati
+
+### 🚨 SOS Stress Relief
+
+* Akses cepat saat pengguna merasa stres
+* Panduan sederhana untuk membantu menenangkan diri
+
+### 👤 Profile
+
+* Menampilkan informasi dan statistik penggunaan aplikasi
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+* Flutter
+* Dart
+* Audioplayers Package
+* Material Design
+
+---
+
+## 📂 Struktur Halaman
+
+```text
+Home
+├── Mood Tracker
+├── Breathing Exercise
+├── Relaxation Sounds
+├── Gratitude Journal
+├── SOS Stress Relief
+└── Profile
+```
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+1. Clone repository
+
+```bash
+git clone https://github.com/Thahiramskji/Mindrest.git
+```
+
+2. Masuk ke folder project
+
+```bash
+cd mindrest
+```
+
+3. Install dependency
+
+```bash
+flutter pub get
+```
+
+4. Jalankan aplikasi
+
+```bash
+flutter run
+```
+
+---
+
+## 👩‍💻 Developer
+
+**Thahira Riska**
+Informatika – Universitas Syiah Kuala
+
+---
+
+Project ini dikembangkan sebagai UAS mata kuliah **Pemrograman Berbasis Mobile (PBM)** menggunakan Flutter.
+
