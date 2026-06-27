@@ -2,6 +2,19 @@
 
 MindRest adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna mengelola stres dan menjaga kesehatan mental melalui berbagai aktivitas sederhana seperti latihan pernapasan, suara relaksasi, pencatatan suasana hati, dan jurnal syukur.
 
+## Deskripsi Singkat
+
+Di tengah padatnya aktivitas sehari-hari, banyak orang mengalami stres, kelelahan, atau kecemasan namun tidak memiliki media sederhana untuk membantu menenangkan diri. MindRest hadir sebagai aplikasi relaksasi digital yang menyediakan latihan pernapasan, suara relaksasi, pencatatan suasana hati, serta fitur bantuan cepat ketika pengguna sedang mengalami stres.
+
+## Tujuan Pengembangan
+
+Aplikasi MindRest dikembangkan dengan tujuan:
+
+- Membantu pengguna mengurangi tingkat stres melalui latihan pernapasan dan suara relaksasi.
+- Menyediakan media sederhana untuk mengenali kondisi emosi melalui Mood Tracker.
+- Memberikan bantuan cepat melalui fitur SOS ketika pengguna merasa cemas atau panik.
+- Mendukung terciptanya kebiasaan menjaga kesehatan mental secara mandiri.
+
 ## 🎯 Sustainable Development Goals (SDGs)
 
 **SDG 3 – Good Health and Well-being**
@@ -55,12 +68,28 @@ MindRest mendukung peningkatan kesejahteraan mental dengan menyediakan berbagai 
 
 ## 🛠️ Teknologi yang Digunakan
 
-* Flutter
-* Dart
-* Audioplayers Package
-* Material Design
+| Komponen | Teknologi |
+|-----------|-----------|
+| Framework | Flutter |
+| Bahasa Pemrograman | Dart |
+| UI Framework | Material Design |
+| Audio Library | audioplayers |
+| Typography | Google Fonts |
+| State Management | Stateful Widget |
+| Platform | Android & Web |
 
 ---
+
+## Struktur Database
+
+MindRest menggunakan penyimpanan data lokal (Local Storage) berbasis collection List sehingga seluruh data disimpan selama aplikasi berjalan.
+
+Struktur data yang digunakan antara lain:
+
+- List Mood History
+- List Daily Affirmation
+- List User Statistics
+
 
 ## 📂 Struktur Halaman
 
