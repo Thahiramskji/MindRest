@@ -133,6 +133,50 @@ flutter run
 
 ---
 
+## Screenshot Aplikasi
+
+### Home
+
+![Home](screenshots/home.png)
+
+---
+
+### Mood Tracker
+
+![Mood](screenshots/mood.png)
+
+---
+
+### Breathing Exercise
+
+![Breathing](screenshots/breathing.png)
+
+---
+
+### Relaxation Sounds
+
+![Relaxation](screenshots/relaxation.png)
+
+---
+
+### SOS Stress Relief
+
+![SOS](screenshots/sos.png)
+
+---
+
+### Gratitude Journal
+
+![Gratitude](screenshots/gratitude.png)
+
+---
+
+### Profile
+
+![Profile](screenshots/profile.png)
+
+---
+
 ## 👩‍💻 Developer
 
 **Thahira Riska**
